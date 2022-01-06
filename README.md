@@ -1,6 +1,9 @@
 ## Idea
-
 [Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+
+## Screenshot
+<img width="518" alt="experience-tabs screenshot" src="https://user-images.githubusercontent.com/36413759/148339661-e9b9e95e-b39c-4e60-8288-980685288381.png">
+
 
 # Getting Started with Create React App
 
